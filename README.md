@@ -2,12 +2,12 @@
 
 Library :
 
-* [Retrofit](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [RxJava](https://maven.apache.org/) - Dependency Management
-* [RxAndroid](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-* [Glide](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-* [Greendao](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-* [Debug DB](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Retrofit](https://square.github.io/retrofit/)
+* [RxJava](https://github.com/ReactiveX/RxJava)
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid)
+* [Glide](https://github.com/bumptech/glide)
+* [Greendao](http://greenrobot.org/greendao/)
+* [Debug DB](https://github.com/amitshekhariitbhu/Android-Debug-Database)
 
 Utils Class :
 * API Service
