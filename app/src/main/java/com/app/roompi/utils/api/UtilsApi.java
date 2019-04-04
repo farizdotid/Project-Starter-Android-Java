@@ -1,4 +1,4 @@
-package com.app.templatejava.utils.api;
+package com.app.roompi.utils.api;
 
 /**
  * Created by Fariz Ramadhan.

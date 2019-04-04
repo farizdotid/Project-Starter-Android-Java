@@ -1,4 +1,4 @@
-package com.app.templatejava.utils;
+package com.app.roompi.utils;
 
 import android.app.Application;
 

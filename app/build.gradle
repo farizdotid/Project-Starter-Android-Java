@@ -4,7 +4,7 @@ apply plugin: 'org.greenrobot.greendao'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.app.templatejava"
+        applicationId "com.app.roompi"
         minSdkVersion 19
         targetSdkVersion 28
         versionCode 1
